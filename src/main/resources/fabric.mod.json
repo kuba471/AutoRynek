@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "megautobuyer",
+  "version": "${version}",
+  "name": "MegaAutoBuyer",
+  "description": "Configurable Auction House helper for Fabric 1.21.4.",
+  "authors": ["AutoRynek"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.twojmod.megautobuyer.MegaAutoBuyerMod"
+    ],
+    "client": [
+      "com.twojmod.megautobuyer.MegaAutoBuyerClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "fabric-api": "*",
+    "java": ">=21"
+  }
+}
