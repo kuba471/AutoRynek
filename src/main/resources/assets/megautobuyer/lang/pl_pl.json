@@ -1,0 +1,7 @@
+{
+  "screen.megautobuyer.title": "MegaAutoBuyer",
+  "screen.megautobuyer.add_demo": "Dodaj przedmiot demo",
+  "screen.megautobuyer.items": "Obserwowane przedmioty: %s",
+  "key.megautobuyer.open_gui": "Otwórz GUI MegaAutoBuyer",
+  "category.megautobuyer": "MegaAutoBuyer"
+}
